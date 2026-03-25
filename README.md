@@ -231,3 +231,8 @@ Model Accuracy % =
 **Course:** Faculty of Engineering and Technology  
 **Institution:** Alliance School of Advanced Computing, Alliance University  
 **Purpose:** Academic project demonstrating BI dashboard development with ML integration
+
+Mohammad Ayaan adil       2411021061286
+ibadul azam               2411021060840
+ D sai shikhar            2411021060542
+ N siva sruthi            2411021060566
